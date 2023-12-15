@@ -17,7 +17,7 @@ export default {
 
 		if (url.pathname === "/api") {
 			// You could also call a third party API here
-			const data = await import("./data.js");
+			const data = await {};
 			return Response.json(data);
 		}else if(url.pathname === '/mono-clash-config'){
 			const data = await fetch('https://connect.applecross.link/clash/861692/CJ1FLF2u9nzp',{
