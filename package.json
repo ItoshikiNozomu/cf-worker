@@ -1,0 +1,11 @@
+{
+  "name": "cf",
+  "version": "1.0.0",
+  "description": "[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ItoshikiNozomu/cf-worker)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
