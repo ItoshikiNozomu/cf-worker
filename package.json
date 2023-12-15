@@ -7,5 +7,12 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "ethers": "^5.7.2"
+  }
 }
