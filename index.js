@@ -1,4 +1,4 @@
-import welcome from "welcome.html";
+// import welcome from "welcome.html";
 
 /**
  * @typedef {Object} Env
@@ -28,7 +28,7 @@ export default {
 			// console.log(await data.text())
 			return data
 		}
-		return new Response(welcome, {
+		return new Response("welcome", {
 			headers: {
 				"content-type": "text/html",
 			},
