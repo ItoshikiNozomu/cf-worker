@@ -1,4 +1,3 @@
-// import welcome from "welcome.html";
 
 /**
  * @typedef {Object} Env
