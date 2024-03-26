@@ -1,3 +1,0 @@
-name: "action"
-runs:
-  using: "node20"
