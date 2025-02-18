@@ -19,7 +19,7 @@ export default {
       return Response.json({})
     } else if (url.pathname === "/mono-clash-config") {
       const data = await fetch(
-        "https://connect.applecross.link/clash/861692/CJ1FLF2u9nzp",
+        "https://connect.applecross.link/clash/1305862/CJ1FLF2u9nzp",
         {
           headers: {
             "user-agent": "shadowrocket/4.4",
